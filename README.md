@@ -3,7 +3,7 @@ Repositorio de la actividad inicial del módulo
 Desarrollo Web en Entorno Servidor.
 
 ## Alumno/a
-David Augusto Herrera.
+David Augusto Herrera -> hp-davinchy-hp
 
 ## Objetivo
 Comprobar el flujo básico de trabajo con Git y GitHub:
